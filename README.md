@@ -22,3 +22,5 @@ Ce script utilise principalement la commande `awk` pour extraire et analyser les
 ./analyze_logs.sh <fichier_log_nginx>
 ```
 
+
+This project is part of [roadmap.sh]((https://roadmap.sh/projects/nginx-log-analyser)) DevOps projects.
